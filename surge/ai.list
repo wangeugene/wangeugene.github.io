@@ -12,6 +12,9 @@ DOMAIN-SUFFIX,statsigapi.com
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,guzzoni.apple.com
 
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,chatgpt
+DOMAIN-KEYWORD,apple
+DOMAIN-KEYWORD,guzzoni
