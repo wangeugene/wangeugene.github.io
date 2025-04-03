@@ -1,0 +1,17 @@
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,chat.com
+DOMAIN-SUFFIX,sora.com
+DOMAIN-SUFFIX,openai.com.cdn.cloudflare.net
+DOMAIN-SUFFIX,azureedge.net
+DOMAIN-SUFFIX,core.windows.net
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,statsig.com
+DOMAIN-SUFFIX,statsigapi.com
+DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,auth0.com
+
+DOMAIN-KEYWORD,openai
+DOMAIN-KEYWORD,chatgpt
