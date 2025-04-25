@@ -1,3 +1,4 @@
 # Eugene Wang Personal Website
 
-Recently I am working on the surge v5 ruleset configurations.
+Hello, Welcome to my personal GitHub static web page!
+Nothing fun here, just for personal usage!
