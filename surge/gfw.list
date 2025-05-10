@@ -17,6 +17,7 @@ DOMAIN-SUFFIX,telegra.ph
 DOMAIN-SUFFIX,telegram.org
 
 DOMAIN-SUFFIX,coursera.org
+DOMAIN-SUFFIX,reuters.com
 
 IP-CIDR,91.108.4.0/22,no-resolve
 IP-CIDR,91.108.8.0/21,no-resolve
