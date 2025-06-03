@@ -10,14 +10,11 @@ DOMAIN-KEYWORD,blogspot
 DOMAIN-KEYWORD,telegram
 DOMAIN-KEYWORD,anysex
 DOMAIN-KEYWORD,speechify
-DOMAIN-KEYWORD,grammarly
 DOMAIN-KEYWORD,porn
 
 DOMAIN-SUFFIX,telegra.ph
 DOMAIN-SUFFIX,telegram.org
 
-DOMAIN-SUFFIX,coursera.org
-DOMAIN-SUFFIX,reuters.com
 
 IP-CIDR,91.108.4.0/22,no-resolve
 IP-CIDR,91.108.8.0/21,no-resolve
@@ -28,6 +25,12 @@ IP-CIDR6,2001:67c:4e8::/48,no-resolve
 IP-CIDR6,2001:b28:f23d::/48,no-resolve
 IP-CIDR6,2001:b28:f23f::/48,no-resolve
 
+DOMAIN-SUFFIX,coursera.org
+DOMAIN-SUFFIX,grammarly.com
+DOMAIN-SUFFIX,forbes.com
+DOMAIN-SUFFIX,reuters.com
+DOMAIN-SUFFIX,sharepoint.com
+DOMAIN-SUFFIX,azure.com
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,fb.me
 DOMAIN-SUFFIX,fbcdn.net
