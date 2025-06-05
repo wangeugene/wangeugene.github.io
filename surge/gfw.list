@@ -2,7 +2,6 @@ DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,gmail
 DOMAIN-KEYWORD,youtube
-DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,instagram
 DOMAIN-KEYWORD,dropbox
@@ -11,6 +10,7 @@ DOMAIN-KEYWORD,telegram
 DOMAIN-KEYWORD,anysex
 DOMAIN-KEYWORD,speechify
 DOMAIN-KEYWORD,porn
+DOMAIN-KEYWORD,junie
 
 DOMAIN-SUFFIX,telegra.ph
 DOMAIN-SUFFIX,telegram.org
@@ -36,6 +36,11 @@ DOMAIN-SUFFIX,gradle.org
 DOMAIN-SUFFIX,maven.org
 DOMAIN-SUFFIX,sonatype.com
 DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,diagrams.net
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,quora.com
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,jetbrains.com
 
 DOMAIN-SUFFIX,sharepoint.com
 DOMAIN-SUFFIX,azure.com
